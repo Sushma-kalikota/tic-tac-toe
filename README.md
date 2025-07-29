@@ -1,30 +1,50 @@
-# 🎮 Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
-A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. It's a two-player game that detects wins, draws, and allows game resets with a clean UI.
+A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
-## 📌 Features
+---
 
-- Two-player turn-based gameplay
-- Instant win and draw detection
-- Reset and New Game options
-- Responsive layout with styled buttons
+## Demo
 
-## 🛠️ Technologies Used
+Open the `index.html` file in any modern web browser to play the game.
 
-- **HTML** for structure
-- **CSS** for styling
-- **JavaScript** for logic and interactivity
+---
 
-## ▶️ How to Play
+## Features
 
-1. Player 1 uses **O**, Player 2 uses **X**
-2. Click a box to mark your move
-3. First to align 3 in a row (horizontal, vertical, diagonal) wins
-4. Click **Reset** or **New Game** to start again
+- Two-player gameplay (Player O and Player X)
+- Detects a winner or a draw automatically
+- Reset and New Game buttons to restart the game
+- Simple, clean UI with responsive design
+- Color-coded player symbols (O in navy blue, X in firebrick red)
 
-## 🚀 How to Run Locally
+---
 
-```bash
-git clone https://github.com/Sushma-kalikota/tic-tac-toe.git
-cd tic-tac-toe
-Open index.html in your browser
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## How to Run Locally
+
+1. Clone or download this repository.
+2. Navigate to the project folder.
+3. Open `index.html` with your favorite web browser (Chrome, Firefox, Edge, etc.).
+4. Start playing!
+
+---
+
+## How to Play
+
+- Click on an empty box to place your mark (O or X).
+- Players take turns alternatively.
+- The game announces a winner or a draw once conditions are met.
+- Use the **New Game** or **Reset Game** buttons to start over.
+
+---
+
+## Project Structure
+
